@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://entionso.github.io/sitemap.html.gz
+Sitemap: https://entionso.github.io/app/sitemap.html.gz
+Sitemap: https://entionso.github.io/assets/sitemap.html.gz
+Sitemap: https://entionso.github.io/css/sitemap.html.gz
+Sitemap: https://entionso.github.io/includes/sitemap.html.gz
+Sitemap: https://entionso.github.io/item/sitemap.html.gz
+Sitemap: https://entionso.github.io/src/sitemap.html.gz
